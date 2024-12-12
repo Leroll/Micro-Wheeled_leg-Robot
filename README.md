@@ -10,6 +10,8 @@
 
 [中文文档](README_CN.md)
 
+QQ group (unofficial): 991727288
+
 ### Mechanical Structure Documentation
 
 * The file "OriginalRobotModel.stp" is the robot model file.
